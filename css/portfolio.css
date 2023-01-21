@@ -385,7 +385,7 @@ body {
   border-bottom: 1px solid #ececec;
 }
 
-.site-name-head {
+.header__name-site {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -395,11 +395,11 @@ body {
   color: #000000;
 }
 
-.site-name-head__color {
+.header__name-color {
   color: #2196f3;
 }
 
-.nav {
+.header__nav {
   margin-left: 90px;
 }
 
@@ -448,7 +448,7 @@ body {
   border-radius: 2px;
 }
 
-.cont {
+.header__cont {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

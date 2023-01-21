@@ -1,4 +1,4 @@
-.site-name-head {
+.header__name-site {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -9,11 +9,11 @@
   color: $primary-black-color;
 }
 
-.site-name-head__color {
+.header__name-color {
   color: $accent-text-color;
 }
 
-.nav {
+.header__nav {
   margin-left: 90px;
 }
 
@@ -62,7 +62,7 @@
   }
 }
 
-.cont {
+.header__cont {
   display: flex;
   flex-direction: row;
   margin-left: auto;
